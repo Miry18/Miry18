@@ -1,6 +1,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.                                                                                                                                                                 
 💻 Desenvolvedora em formação.                                                                                                                                                                                      
-🔍 Interesse em Cibersegurança.                                                                                                                                                                                     📚 Participante do Mil Devs | Projetos de Extensão em Inclusão Digital.                                                                                                                                             
+🔍 Interesse em Cibersegurança. 
+📚 Participante do Mil Devs | Projetos de Extensão em Inclusão Digital.                                                                                                                                         
 🚀 Organizada, comunicativa e apaixonada por tecnologia.                                                                                                                                                            
 📍 Interior da Bahia | Sempre aprendendo e crescendo!
 
